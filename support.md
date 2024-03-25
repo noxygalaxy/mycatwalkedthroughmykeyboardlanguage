@@ -1,0 +1,1 @@
+If you want to support me, i have [Ko-Fi Page](https://ko-fi.com/noxyy)

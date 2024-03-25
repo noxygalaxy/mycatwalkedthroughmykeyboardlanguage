@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.22",
+	"gd": "*",
+	"version": "v1.0.0",
+	"id": "noxy.mcwtmklanguage",
+	"name": "My Cat Walked Through My Keyboard Language",
+	"developer": "Noxy",
+	"description": "Replaces all text to random letters",
+    "resources": {
+        "sprites": [
+            "resources/*"
+        ]
+    }
+}
