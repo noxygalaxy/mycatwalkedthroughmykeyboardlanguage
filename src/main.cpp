@@ -9,12 +9,14 @@
 
 using namespace geode::prelude;
 
+
+
 class $modify(MenuLayer) {
     bool init() {
         if (!MenuLayer::init())
         return false;
         
-        auto gdlogo = CCSprite::create("GJ_LaunchSheet-uhd.png"_spr);
+        auto gdlogo = CCSprite::create("GJ_LaunchSheet.png"_spr);
 
         auto gdtitle = static_cast<CCSprite*>(this->getChildByID("main-title"));
         
