@@ -1,3 +1,5 @@
-# asdjgdskcvf
+# My cat walked through my keyboard language
 
-This is where she makes a mod.
+(Geode mod) Replaces all letters to random ones
+Yes i have a terrible code i know
+https://github.com/noxygalaxy/mycatwalkedthroughmykeyboardlanguage/resources/cat.png
