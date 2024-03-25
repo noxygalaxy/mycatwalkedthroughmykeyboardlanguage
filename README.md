@@ -2,4 +2,5 @@
 
 (Geode mod) Replaces all letters to random ones
 Yes i have a terrible code i know
-!(https://raw.githubusercontent.com/noxygalaxy/mycatwalkedthroughmykeyboardlanguage/main/resources/cat.png)
+
+![CatOnKeyboard](resources/cat.png)
